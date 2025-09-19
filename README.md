@@ -34,7 +34,7 @@ Due to Unreal Engine project size limitations, the full project is hosted extern
 Aspiring Game Developer & Software Engineer  
 Email: hadi2001@gmail.com
 GitHub: [github.com/hadiamasha](https://github.com/hadiamasha)  
-LinkedIn: [linkedin.com/in/hadiamasha](https://www.linkedin.com/in/hadiamasha/)
+LinkedIn: [linkedin.com/in/hadiamasha](https://www.linkedin.com/in/hadiamasha)
 
 
 
