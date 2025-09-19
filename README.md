@@ -1,7 +1,7 @@
 Unreal Engine 5 survival game demo made as a final project
 # UE5 Survival Game Demo – Student Project
 
-This is a **very simple survival game demo** made entirely with **Unreal Engine 5 Blueprints** as part of a final-year software engineering project at Tel-Hai College.
+This is a ** simple survival game demo** made entirely with **Unreal Engine 5 Blueprints** as part of a final-year software engineering project at Tel-Hai College.
 
 ## 🎮 About the Project
 
